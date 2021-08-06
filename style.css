@@ -1,0 +1,82 @@
+img {
+	width: 700px;
+}
+
+#banner {
+	width: 	100%;
+	position: relative;
+}
+
+#pixarchickunlogo {
+	width: 25%;
+	left: 38%;
+	top: 5%;
+	
+}
+h1{font-size: 250%;
+ 	top:35% ;
+ 	left: 40%;
+ 	color: white;
+}
+
+
+#goanywhere{font-family: 'Poller One', cursive;}
+p {
+	font-family: 'Lemon', cursive;1
+	font-size: 110%;
+	color: black;
+	padding-top: 2.5%;
+}
+a{
+	text-decoration: none;
+}
+body{background-color: #02A5E5;
+text-align: center;}
+.square{
+	width: 330px;
+	height: 330px;
+	object-fit: cover;
+	object-position: bottom left;
+	box-shadow: 5px 7px 7px black;
+	border-radius: 25px;
+}
+#openocean{
+	object-position: center;
+}
+li{
+	list-style-type: none;
+	padding: 2%;
+	color: #0234e5;
+}
+#inspo{
+	color: #0234e5;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+#ban{
+	display: flex;
+}
+#beegkayrddeev, #leestes{
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+#pixarchickunlogo, h1, #ban > h2{
+	position: absolute;
+}
+#ban > h2{
+	top: ;
+	left: ;
+	background-color: #002279;
+	color: white;
+	padding: 1.5% 2%;
+	border-radius: 50px;
+	opacity: 75%;
+	left: 67%;
+	top: 65%;
+}
+h2{
+	padding: 1.5%;
+}
