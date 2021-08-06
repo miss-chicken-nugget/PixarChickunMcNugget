@@ -1,0 +1,20 @@
+#ginormousdiv > div{
+	background-color: seagreen;
+	border: 2px solid darkblue;
+	width: 330px;
+	height: 330px;
+	font-size: 225px;
+	text-align: center;
+}
+#ginormousdiv{
+	border: 2px dashed rebeccapurple;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:  space-evenly;
+}
+#itsfiv{
+	position: absoulute;
+	top: 0;
+	right: 150px;
+	
+}

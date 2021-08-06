@@ -40,6 +40,13 @@ text-align: center;}
 	box-shadow: 5px 7px 7px black;
 	border-radius: 25px;
 }
+.square2{
+	width: 495px;
+	height: 330px;
+	box-shadow: 5px 7px 7px darkblue;
+	border-radius: 25px;
+
+}
 #openocean{
 	object-position: center;
 }
@@ -79,4 +86,7 @@ li{
 }
 h2{
 	padding: 1.5%;
+}
+h2 > a{
+	color: white;
 }
